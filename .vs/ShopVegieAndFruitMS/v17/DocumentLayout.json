@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1207\\Desktop\\Vegans-master\\Vegans-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Vegans_11dMS/True/SqlTable/dbo.VeganTypes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A445A0-FCF4-410F-BE02-EF87E97AB899}|ShopVegieAndFruitMS\\ShopVegieAndFruitMS.csproj|c:\\users\\1207\\desktop\\vegans-master\\vegans-master\\shopvegieandfruitms\\migrations\\202405210840149_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A445A0-FCF4-410F-BE02-EF87E97AB899}|ShopVegieAndFruitMS\\ShopVegieAndFruitMS.csproj|solutionrelative:shopvegieandfruitms\\migrations\\202405210840149_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A445A0-FCF4-410F-BE02-EF87E97AB899}|ShopVegieAndFruitMS\\ShopVegieAndFruitMS.csproj|c:\\users\\1207\\desktop\\vegans-master\\vegans-master\\shopvegieandfruitms\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A445A0-FCF4-410F-BE02-EF87E97AB899}|ShopVegieAndFruitMS\\ShopVegieAndFruitMS.csproj|solutionrelative:shopvegieandfruitms\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A445A0-FCF4-410F-BE02-EF87E97AB899}|ShopVegieAndFruitMS\\ShopVegieAndFruitMS.csproj|c:\\users\\1207\\desktop\\vegans-master\\vegans-master\\shopvegieandfruitms\\view\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A445A0-FCF4-410F-BE02-EF87E97AB899}|ShopVegieAndFruitMS\\ShopVegieAndFruitMS.csproj|solutionrelative:shopvegieandfruitms\\view\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A445A0-FCF4-410F-BE02-EF87E97AB899}|ShopVegieAndFruitMS\\ShopVegieAndFruitMS.csproj|c:\\users\\1207\\desktop\\vegans-master\\vegans-master\\shopvegieandfruitms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A445A0-FCF4-410F-BE02-EF87E97AB899}|ShopVegieAndFruitMS\\ShopVegieAndFruitMS.csproj|solutionrelative:shopvegieandfruitms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A445A0-FCF4-410F-BE02-EF87E97AB899}|ShopVegieAndFruitMS\\ShopVegieAndFruitMS.csproj|c:\\users\\1207\\desktop\\vegans-master\\vegans-master\\shopvegieandfruitms\\model\\vegan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A445A0-FCF4-410F-BE02-EF87E97AB899}|ShopVegieAndFruitMS\\ShopVegieAndFruitMS.csproj|solutionrelative:shopvegieandfruitms\\model\\vegan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A445A0-FCF4-410F-BE02-EF87E97AB899}|ShopVegieAndFruitMS\\ShopVegieAndFruitMS.csproj|c:\\users\\1207\\desktop\\vegans-master\\vegans-master\\shopvegieandfruitms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5A445A0-FCF4-410F-BE02-EF87E97AB899}|ShopVegieAndFruitMS\\ShopVegieAndFruitMS.csproj|solutionrelative:shopvegieandfruitms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.VeganTypes [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Vegans_11dMS/True/SqlTable/dbo.VeganTypes.sql",
+              "ToolTip": "dbo.VeganTypes [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-21T08:41:37.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "202405210840149_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\1207\\Desktop\\Vegans-master\\Vegans-master\\ShopVegieAndFruitMS\\Migrations\\202405210840149_InitialMigration.cs",
+              "RelativeDocumentMoniker": "ShopVegieAndFruitMS\\Migrations\\202405210840149_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\1207\\Desktop\\Vegans-master\\Vegans-master\\ShopVegieAndFruitMS\\Migrations\\202405210840149_InitialMigration.cs",
+              "RelativeToolTip": "ShopVegieAndFruitMS\\Migrations\\202405210840149_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:40:30.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\1207\\Desktop\\Vegans-master\\Vegans-master\\ShopVegieAndFruitMS\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "ShopVegieAndFruitMS\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\1207\\Desktop\\Vegans-master\\Vegans-master\\ShopVegieAndFruitMS\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "ShopVegieAndFruitMS\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:37:57.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Display.cs",
+              "DocumentMoniker": "C:\\Users\\1207\\Desktop\\Vegans-master\\Vegans-master\\ShopVegieAndFruitMS\\View\\Display.cs",
+              "RelativeDocumentMoniker": "ShopVegieAndFruitMS\\View\\Display.cs",
+              "ToolTip": "C:\\Users\\1207\\Desktop\\Vegans-master\\Vegans-master\\ShopVegieAndFruitMS\\View\\Display.cs",
+              "RelativeToolTip": "ShopVegieAndFruitMS\\View\\Display.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAvwD4AAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:34:09.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vegan.cs",
+              "DocumentMoniker": "C:\\Users\\1207\\Desktop\\Vegans-master\\Vegans-master\\ShopVegieAndFruitMS\\Model\\Vegan.cs",
+              "RelativeDocumentMoniker": "ShopVegieAndFruitMS\\Model\\Vegan.cs",
+              "ToolTip": "C:\\Users\\1207\\Desktop\\Vegans-master\\Vegans-master\\ShopVegieAndFruitMS\\Model\\Vegan.cs",
+              "RelativeToolTip": "ShopVegieAndFruitMS\\Model\\Vegan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:30:24.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\1207\\Desktop\\Vegans-master\\Vegans-master\\ShopVegieAndFruitMS\\Form1.cs",
+              "RelativeDocumentMoniker": "ShopVegieAndFruitMS\\Form1.cs",
+              "ToolTip": "C:\\Users\\1207\\Desktop\\Vegans-master\\Vegans-master\\ShopVegieAndFruitMS\\Form1.cs",
+              "RelativeToolTip": "ShopVegieAndFruitMS\\Form1.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAYwDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:21:25.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1207\\Desktop\\Vegans-master\\Vegans-master\\ShopVegieAndFruitMS\\Form1.cs",
+              "RelativeDocumentMoniker": "ShopVegieAndFruitMS\\Form1.cs",
+              "ToolTip": "C:\\Users\\1207\\Desktop\\Vegans-master\\Vegans-master\\ShopVegieAndFruitMS\\Form1.cs [Design]",
+              "RelativeToolTip": "ShopVegieAndFruitMS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:20:50.935Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
