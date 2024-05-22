@@ -47,7 +47,5 @@ namespace ShopVegieAndFruitMS.Controllers
             _vegansDbContext.SaveChanges();
             
         }
-
-
     }
 }

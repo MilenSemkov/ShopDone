@@ -12,7 +12,6 @@ namespace ShopVegieAndFruitMS.Model
         public string Name { get; set; }
         public string Discription { get; set; }
         public decimal Price { get; set; }
-
         public int VeganTypesId { get; set; }
         public VeganType VeganTypes { get; set; } 
     }

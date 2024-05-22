@@ -10,7 +10,6 @@ namespace ShopVegieAndFruitMS.Model
     {
         public int Id { get; set; }
         public string NameType { get; set; }
-
         public ICollection<Vegan> Vegans { get; set; }
     }
 }
