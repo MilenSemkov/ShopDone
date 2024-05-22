@@ -38,7 +38,7 @@ namespace ShopVegieAndFruitMS.View
                 switch (operation)
                 {
                     case 1:
-                        //ListAll();
+                        ListAll();
                         break;
                     case 2:
                         //Add();
@@ -47,10 +47,10 @@ namespace ShopVegieAndFruitMS.View
                         //Update();
                         break;
                     case 4:
-                        //Find();
+                        Find();
                         break;
                     case 5:
-                        //Delete();
+                        Delete();
                         break;
                     default:
                         break;
@@ -84,7 +84,30 @@ namespace ShopVegieAndFruitMS.View
                 PrintVegan(vegan);
             }
         }
+        private void ListAll()
+        {
+            Console.WriteLine(new string('-', 40));
+            Console.WriteLine(new string(' ', 16) + "DOGS" + new string(' ', 16));
+            Console.WriteLine(new string('-', 40));
+            VeganLogic veganLogic = new VeganLogic();
+            var product = veganLogic.GetAll();
+            foreach (var item in product)
+            {
+                Console.WriteLine($"{item.Id} {item.Name} {item.Discription} {item.Price} {item.VeganTypesId}");
+            }
+        }
+        private void Update()
+        {
+            Console.WriteLine("Enter ID to find: ");
+            int id = int.Parse(Console.ReadLine());
+            Vegan vegan = veganLogic.Get(id);
+            if (vegan == null)
+            {
+                Console.WriteLine("No searching vegan");
+                return;
+            }
 
+        }
 
     }
 }
