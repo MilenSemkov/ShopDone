@@ -177,5 +177,11 @@ namespace ShopVegieAndFruitMS
             btnSAll_Click(sender, e);
            
         }
+
+        private void btnCLEAR_Click(object sender, EventArgs e)
+        {
+            ClearScreen();
+            lxbAll.Items.Clear();
+        }
     }
 }

@@ -47,6 +47,7 @@ namespace ShopVegieAndFruitMS
             this.btnSAll = new System.Windows.Forms.Button();
             this.btnFIND = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btnCLEAR = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -131,9 +132,9 @@ namespace ShopVegieAndFruitMS
             // lxbAll
             // 
             this.lxbAll.FormattingEnabled = true;
-            this.lxbAll.Location = new System.Drawing.Point(490, 39);
+            this.lxbAll.Location = new System.Drawing.Point(456, 39);
             this.lxbAll.Name = "lxbAll";
-            this.lxbAll.Size = new System.Drawing.Size(286, 355);
+            this.lxbAll.Size = new System.Drawing.Size(320, 355);
             this.lxbAll.TabIndex = 12;
             // 
             // cmbType
@@ -147,9 +148,9 @@ namespace ShopVegieAndFruitMS
             // btnADD
             // 
             this.btnADD.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.btnADD.Location = new System.Drawing.Point(36, 325);
+            this.btnADD.Location = new System.Drawing.Point(19, 325);
             this.btnADD.Name = "btnADD";
-            this.btnADD.Size = new System.Drawing.Size(103, 42);
+            this.btnADD.Size = new System.Drawing.Size(120, 42);
             this.btnADD.TabIndex = 14;
             this.btnADD.Text = "ADD";
             this.btnADD.UseVisualStyleBackColor = true;
@@ -158,9 +159,9 @@ namespace ShopVegieAndFruitMS
             // btnUPDATE
             // 
             this.btnUPDATE.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.btnUPDATE.Location = new System.Drawing.Point(178, 325);
+            this.btnUPDATE.Location = new System.Drawing.Point(165, 325);
             this.btnUPDATE.Name = "btnUPDATE";
-            this.btnUPDATE.Size = new System.Drawing.Size(103, 42);
+            this.btnUPDATE.Size = new System.Drawing.Size(124, 42);
             this.btnUPDATE.TabIndex = 15;
             this.btnUPDATE.Text = "UPDATE";
             this.btnUPDATE.UseVisualStyleBackColor = true;
@@ -169,9 +170,9 @@ namespace ShopVegieAndFruitMS
             // btnDELETE
             // 
             this.btnDELETE.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.btnDELETE.Location = new System.Drawing.Point(325, 325);
+            this.btnDELETE.Location = new System.Drawing.Point(310, 325);
             this.btnDELETE.Name = "btnDELETE";
-            this.btnDELETE.Size = new System.Drawing.Size(103, 42);
+            this.btnDELETE.Size = new System.Drawing.Size(124, 42);
             this.btnDELETE.TabIndex = 16;
             this.btnDELETE.Text = "DELETE";
             this.btnDELETE.UseVisualStyleBackColor = true;
@@ -180,7 +181,7 @@ namespace ShopVegieAndFruitMS
             // btnSAll
             // 
             this.btnSAll.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.btnSAll.Location = new System.Drawing.Point(249, 388);
+            this.btnSAll.Location = new System.Drawing.Point(165, 385);
             this.btnSAll.Name = "btnSAll";
             this.btnSAll.Size = new System.Drawing.Size(124, 42);
             this.btnSAll.TabIndex = 18;
@@ -191,7 +192,7 @@ namespace ShopVegieAndFruitMS
             // btnFIND
             // 
             this.btnFIND.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.btnFIND.Location = new System.Drawing.Point(90, 388);
+            this.btnFIND.Location = new System.Drawing.Point(19, 385);
             this.btnFIND.Name = "btnFIND";
             this.btnFIND.Size = new System.Drawing.Size(124, 42);
             this.btnFIND.TabIndex = 17;
@@ -203,18 +204,30 @@ namespace ShopVegieAndFruitMS
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.InitialImage = global::ShopVegieAndFruitMS.Properties.Resources.FVShopPNG;
-            this.pictureBox1.Location = new System.Drawing.Point(297, 39);
+            this.pictureBox1.Location = new System.Drawing.Point(271, 39);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(163, 198);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 10;
             this.pictureBox1.TabStop = false;
             // 
+            // btnCLEAR
+            // 
+            this.btnCLEAR.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.btnCLEAR.Location = new System.Drawing.Point(310, 385);
+            this.btnCLEAR.Name = "btnCLEAR";
+            this.btnCLEAR.Size = new System.Drawing.Size(124, 42);
+            this.btnCLEAR.TabIndex = 19;
+            this.btnCLEAR.Text = "CLEAR ALL";
+            this.btnCLEAR.UseVisualStyleBackColor = true;
+            this.btnCLEAR.Click += new System.EventHandler(this.btnCLEAR_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnCLEAR);
             this.Controls.Add(this.btnSAll);
             this.Controls.Add(this.btnFIND);
             this.Controls.Add(this.btnDELETE);
@@ -260,6 +273,7 @@ namespace ShopVegieAndFruitMS
         private System.Windows.Forms.Button btnDELETE;
         private System.Windows.Forms.Button btnSAll;
         private System.Windows.Forms.Button btnFIND;
+        private System.Windows.Forms.Button btnCLEAR;
     }
 }
 
